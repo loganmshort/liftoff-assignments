@@ -72,6 +72,7 @@
 - Short, Logan
 - [Wheelehan, Jeremiah (@jdwheelehan)](https://github.com/jdwheelehan/liftoff-assignments)
 - [Wiedenman, Landon (@landongw)](https://github.com/landongw/liftoff-assignments)
+- [Short, Logan (@loganshort)] (https://github.com/loganmshort/liftoff-assignments)
 
 ### Ryan Coleman's Group
 - [Mona, Aghaee (@maghaee)](https://github.com/maghaee/liftoff-assignments)
