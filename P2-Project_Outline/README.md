@@ -7,11 +7,11 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I am creating an on-campus recruitment sign-in for my work at the WashU Career Center. They are never able to gather the contact info from recruiters because they aren't the people the Employer Relations team talks to. 
 ### Features
-Include Features here
+Sign-in features. Automatic email upon sign-in. Ability to export to excel lists. 
 ### Technologies
-Include Technologies here
+I think I'll need to use Java, MAMP, HTML/CSS, and Flask. 
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll need to figure out how to allow the sign-in to trigger an automatic email and export selected lists to excel sheets.
